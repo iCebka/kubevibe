@@ -1,6 +1,9 @@
 # KubeVibe: A Finite-State–Machine Pipeline for LLM-Driven Cloud-Native Service Prototyping
 
-Rapid prototyping of Kubernetes-based services with intent extraction and a finite-state deployment pipeline
+Rapid prototyping of Kubernetes-based services with intent extraction and a finite-state deployment pipeline.
+
+![KubeVibe logo](kubevibe.png)
+
 
 ## Overview
 
